@@ -1,3 +1,7 @@
+// username property that holds the username of the user who created this thought
+// each Thought can have multiple Reactions (replies) - one to many relationship
+// each Reaction associated with a single Thought
+// array of Reactions (replies) in the reactions property
 const mongoose = require("mongoose");
 
 const thoughtSchema = new mongoose.Schema({

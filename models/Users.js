@@ -1,3 +1,8 @@
+// each User can have multimle Thoughts
+// each Thought can have a single User
+// array of Thought _id values in the thoughts property
+// each User can have multiple Friends
+// array of User _id values in the friends property (each user can refer to many other users as their friends)
 const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
