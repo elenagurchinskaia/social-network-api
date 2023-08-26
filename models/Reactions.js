@@ -22,11 +22,4 @@ const reactionSchema = new mongoose.Schema({
   },
 });
 
-// getter method to format the createdAt timestamp
-reactionSchema.virtual("formattedCreatedAt").get(function () {
-  return new Date(this.createdAt).toLocaleString();
-});
-
-const Reaction = mongoose.model("Reaction", reactionSchema);
-
-module.exports = Reaction;
+module.exports = reactionSchema;

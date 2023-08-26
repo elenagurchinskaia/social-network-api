@@ -1,6 +1,6 @@
 // mongoose models
-const User = require("./models/User");
-const Thought = require("./models/Thought");
-const Reaction = require("./models/Reactions");
+const User = require("./Users");
+const Thought = require("./Thoughts");
+const Reaction = require("./Reactions");
 // export the models
 module.exports = { User, Thought, Reaction };
