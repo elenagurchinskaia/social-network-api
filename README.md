@@ -41,6 +41,10 @@ The Social Network API with MongoDB Integration is a powerful application that p
 
 [Video](https://drive.google.com/file/d/1Ht_rxGX3r-PFjGHRz3ZKdPuR_EFAlS8f/view)
 
+## Code Snippet
+
+![alt text](./assets/carbon.png)
+
 ## Installation
 
 N/A
