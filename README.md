@@ -35,9 +35,11 @@ The Social Network API with MongoDB Integration is a powerful application that p
 
 ## Deployment
 
-[Social Network](https://github.com/elenagurchinskaia/tech-blog)
+[Social Network](https://github.com/elenagurchinskaia/social-network-api)
 
 ![alt text](./public/images/tech-blog.png)
+
+## Walkthrough Video
 
 ## Installation
 
