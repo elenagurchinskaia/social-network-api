@@ -33,13 +33,13 @@ The Social Network API with MongoDB Integration is a powerful application that p
 - [Mongoose](https://mongoosejs.com/)
 - [Insomnia](https://insomnia.rest/)
 
-## Deployment
+## GitHub Repo
 
 [Social Network](https://github.com/elenagurchinskaia/social-network-api)
 
-![alt text](./public/images/tech-blog.png)
-
 ## Walkthrough Video
+
+[Video](https://drive.google.com/file/d/1Ht_rxGX3r-PFjGHRz3ZKdPuR_EFAlS8f/view)
 
 ## Installation
 
